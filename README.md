@@ -3,7 +3,7 @@
 
 - Find the dataset here: https://www.kaggle.com/karan842/twitter-sentimental-analysis/data 
 
- ## 🔵 About Project
+ ##  About Project
  Twitter is one of the most famous social media platform on which we can share our thoughts, opinion and trending related tweets in the form of text, images and videos. In this task I am going to analyze sentiments of tweets which are in the form of tweets.
  I collected this data from **Kaggle**. As the task is depeneded on tweets which texts so this is a problem of **Natural Languages Processing**. There are 1.6 milion tweets in this data so dataset is very huge.
  Main task is to predict sentiments behind tweeet that means, is tweet is positive? or negative? By this strategy we can find good or bad tweets I mean which tweets are harmful and disrespectful according to Twitter guidlines.
